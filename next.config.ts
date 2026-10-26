@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // The atlas is the whole app.
+  async redirects() {
+    return [{ source: "/", destination: "/atlas", permanent: false }];
+  },
 };
 
 export default nextConfig;
