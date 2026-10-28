@@ -6,7 +6,7 @@ reactors and chips around Austin, and the big tech and trading firms beside them
 
 ![Silicon Hills: downtown Austin and Lady Bird Lake](docs/screenshot.jpg)
 
-- **Live:** <https://abhidotbandi.vercel.app/atlas>
+- **Live:** <https://silicon-hills-atlas-psi.vercel.app>
 - **Author:** Abhi Bandi (built with Claude Code)
 - **License:** MIT for the code. The map data and logos keep their own terms; see
   [NOTICE.md](NOTICE.md).
